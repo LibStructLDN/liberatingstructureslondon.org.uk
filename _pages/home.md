@@ -10,4 +10,10 @@ excerpt: >
 
 ---
 
-Hello
+<div class="feature__wrapper">
+
+{% for post in site.categories.meetups %}
+  {% include archive-single.html type="feature" %}
+{% endfor %}
+
+</div>

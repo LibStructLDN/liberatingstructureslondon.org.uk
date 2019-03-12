@@ -1,16 +1,12 @@
 ---
 layout: single
-title: March meetup
+title: April meetup
 categories: [meetups]
 tags: [forthcoming]
-excerpt: Find out more about our next meetup on 26 March 2019
+excerpt: Our April meetup will be on 30 April 2019
 ---
 
-Our March meetup will take place on Tuesday 26 March 2019 at [GDS](/venues/gds).
-
-**You must register for a place via eventbrite**
-
-We'll announce through our [email list](/email-list) when registrations are open.
+Our April meetup will take place on Tuesday 30 April 2019.
 
 We haven't planned the meetup yet. 
 
