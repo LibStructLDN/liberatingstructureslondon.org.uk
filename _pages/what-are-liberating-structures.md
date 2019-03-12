@@ -9,7 +9,7 @@ in groups of any size.
 
 <figure class="{{ include.class }}">
   <a href="http://www.liberatingstructures.com/ls/">
-  	<img src="/assets/images/Matrix.png" alt="Liberating Structures matrix" />
+  	<img src="assets/images/Matrix.png" alt="Liberating Structures matrix" />
   </a>
   <figcaption>Liberating Structures repertoire matrix used under CC BY-NC 3.0 license (c) Keith McCandless</figcaption>
 </figure>
