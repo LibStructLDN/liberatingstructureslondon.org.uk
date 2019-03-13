@@ -11,12 +11,12 @@ in groups of any size.
   <a href="http://www.liberatingstructures.com/ls/">
   	<img src="assets/images/Matrix.png" alt="Liberating Structures matrix" />
   </a>
-  <figcaption>Liberating Structures repertoire matrix used under CC BY-NC 3.0 license (c) Keith McCandless</figcaption>
+  <figcaption>Liberating Structures repertoire matrix (c) Keith McCandless used under CC BY-NC 3.0 license</figcaption>
 </figure>
 
 Each structure descibes a set of simple rules to achieve a particular outcome.
 The structures address [five elements](http://www.liberatingstructures.com/design-elements/) of every group interaction, which are
-sometimes neglected or overlooked in more mundane business formats like a
+sometimes neglected or overlooked in everyday business formats like a
 presentation:
 
 - invitation
@@ -28,13 +28,13 @@ presentation:
 Each structure has been design and carefully field tested with these goals:
 
 - include everyone equally
-- work at multiple scales, all the way from individual reflection right up to groups of 500+
-- get better-than-expected results
-- work in fast iterations
-- be easy to learn
-- be safe to use by non-experts without needing extensive training
-- be FUN!
-- be combined and re-combined with other LS
+- work at multiple scales, from individual reflection up to large groups of 500+
+- better-than-expected results
+- fast iterations
+- easy to learn
+- safe to use by non-experts without needing extensive training
+- FUN!
+- composable and re-combineable
 
 They were developed and refined by Keith McCandless and Henri Lipmanowicz in the [early 2000s](http://www.liberatingstructures.com/history/), drawing inspiration from Brenda Zimmermann's [Edgeware](https://www.worldcat.org/title/edge-ware-lessons-from-complexity-science-for-health-care-leaders/oclc/230923988), which applied insights from complexity science to health care leadership.
 
