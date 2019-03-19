@@ -14,29 +14,40 @@ in groups of any size.
   <figcaption>Liberating Structures repertoire matrix (c) Keith McCandless used under CC BY-NC 3.0 license</figcaption>
 </figure>
 
-Each structure descibes a set of simple rules to achieve a particular outcome.
-The structures address [five elements](http://www.liberatingstructures.com/design-elements/) of every group interaction, which are
-sometimes neglected or overlooked in everyday business formats like a
-presentation:
 
-- invitation
-- sequence of steps
-- distribution of participation 
-- arrangement of space and materials needed
-- configuration of groups
-
-Each structure has been design and carefully field tested with these goals:
+Each structure has been designed and carefully field tested to:
 
 - include everyone equally
-- work at multiple scales, from individual reflection up to large groups of 500+
-- better-than-expected results
-- fast iterations
-- easy to learn
-- safe to use by non-experts without needing extensive training
-- FUN!
-- composable and re-combineable
+- work at multiple scales, from a single individual up to large groups of 500+
+- get better-than-expected results
+- be used in fast iterations
+- be easy to learn
+- be safe to use by non-experts without needing extensive training
+- be seriously playful
+- be endlessly composable and re-combineable
 
-They were developed and refined by Keith McCandless and Henri Lipmanowicz in the [early 2000s](http://www.liberatingstructures.com/history/), drawing inspiration from Brenda Zimmermann's [Edgeware](https://www.worldcat.org/title/edge-ware-lessons-from-complexity-science-for-health-care-leaders/oclc/230923988), which applied insights from complexity science to health care leadership.
+Each structure descibes a set of simple rules to achieve a particular outcome.
+
+They expand the vocabulary of structures used in typical business meetings, from 'the big 5'
+
+- presentation
+- open discussion
+- chaired discussion
+
+The simplest structure [1-2-4-all](http://www.liberatingstructures.com/1-1-2-4-all/) is designed to _engage everyone simultaneously in generating questions, ideas, and suggestions_, here's how it works:
+
+1. state your question, prompt or invitation, for example "how can we improve our work together?"
+2. everyone takes **1 minute** in silence to reflect on the prompt and come up with their own answers or responses
+3. individuals organise into pairs and take **two minutes** to discuss their responses to the prompt. Were there ideas in common, or big differences? Is there a consensus or preference emerging?
+4. each pair finds another pair and takes **four minutes** to share, explore and refine their responses
+5. each group plays back their top insights, observations or recommendations [1 minute per group]
+
+in this way, in the space of 10-15 minutes, a group of any size can respond to a question or prompt and:
+- every person is fully engaged throughout
+- every person contributes equally
+- ideas from quieter people (which may be the best ideas in the room) have a chance to surface and be amplified
+
+Liberating Structures were developed and refined by Keith McCandless and Henri Lipmanowicz in the [early 2000s](http://www.liberatingstructures.com/history/), drawing inspiration from Brenda Zimmermann's [Edgeware](https://www.worldcat.org/title/edge-ware-lessons-from-complexity-science-for-health-care-leaders/oclc/230923988), which applied insights from complexity science to health care leadership.
 
 Watch this brief interview with Keith and Henri to hear about the origins:
 

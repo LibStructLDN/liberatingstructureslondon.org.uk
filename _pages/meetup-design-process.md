@@ -2,6 +2,7 @@
 layout: single
 permalink: /meetup-design-process
 title: Meetup design process
+excerpt: Get involved with running a meetup
 ---
 
 The aim of the London Liberating Structures meetup is to give people a chance
