@@ -12,7 +12,7 @@ We usually meet on the 4th Tuesday of the month. Registrations usually open arou
 
 Sign up to our [email list](https://bit.ly/lsldnemail) for announcements about registration and other relevant news.
 
-The meetup is led by [David Heath](https://twitter.com/dgheath21).
+The meetup is led by [David Heath](https://twitter.com/dgheath21), we follow an open [meetup design process](/meetup-design-process).
 
 You can follow us on twitter [@LibStructLDN](https://twitter.com/LibStructLDN).
 
