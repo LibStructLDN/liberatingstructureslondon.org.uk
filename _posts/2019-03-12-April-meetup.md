@@ -3,10 +3,10 @@ layout: single
 title: April meetup
 categories: [meetups]
 tags: [forthcoming]
-excerpt: Our April meetup will be on 30 April 2019
+excerpt: Our April meetup will be on 30 April 2019 at Wellcome Trust
 ---
 
-Our April meetup will take place on Tuesday 30 April 2019.
+Our April meetup will take place on Tuesday 30 April 2019 at Wellcome Trust.
 
 We haven't planned the meetup yet. 
 
