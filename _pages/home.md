@@ -17,6 +17,12 @@ excerpt: >
 {% endfor %}
 
 {% for post in site.pages %}
+  {% if post.name =='what-are-liberating-structures.md' %}
+    {% include archive-single.html type="feature" %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.pages %}
   {% if post.name =='meetup-design-process.md' %}
     {% include archive-single.html type="feature" %}
   {% endif %}
