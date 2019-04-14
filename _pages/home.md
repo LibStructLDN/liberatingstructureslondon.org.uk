@@ -12,9 +12,9 @@ excerpt: >
 
 <div class="feature__wrapper">
 
-{% for post in site.categories.meetups %}
-  {% include archive-single.html type="feature" %}
-{% endfor %}
+{% assign meetups = (site.categories.meetups | sort:"event_date") %}
+{% assign post = meetups[0] %}
+{% include archive-single.html type="feature" %}
 
 {% for post in site.pages %}
   {% if post.name =='what-are-liberating-structures.md' %}
@@ -23,8 +23,13 @@ excerpt: >
 {% endfor %}
 
 {% for post in site.pages %}
-  {% if post.name =='meetup-design-process.md' %}
+  {% if post.name =='immersion-workshop.md' %}
     {% include archive-single.html type="feature" %}
   {% endif %}
 {% endfor %}
+
+{% for post in meetups offset:1 %}
+  {% include archive-single.html type="feature" %}
+{% endfor %}
+
 </div>

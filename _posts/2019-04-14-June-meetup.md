@@ -1,13 +1,13 @@
 ---
 layout: single
-title: April meetup
+title: June meetup
 categories: [meetups]
 tags: [forthcoming]
-excerpt: Our April meetup will be on 30 April 2019 at Wellcome Trust
-event_date: 2019-04
+excerpt: 25 June 2019 at Cloudflare
+event_date: 2019-06
 ---
 
-Our April meetup will take place on Tuesday 30 April 2019 at Wellcome Trust.
+Our April meetup will take place on Tuesday 25 June 2019 at Cloudflare, County Hall, Belvedere Rd, South Bank, London SE1 7GP.
 
 We haven't planned the meetup yet. 
 

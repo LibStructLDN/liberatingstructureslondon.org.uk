@@ -1,13 +1,13 @@
 ---
 layout: single
-title: April meetup
+title: May meetup
 categories: [meetups]
 tags: [forthcoming]
-excerpt: Our April meetup will be on 30 April 2019 at Wellcome Trust
-event_date: 2019-04
+excerpt: 28 May 2019 at Happy Ltd
+event_date: 2019-05
 ---
 
-Our April meetup will take place on Tuesday 30 April 2019 at Wellcome Trust.
+Our April meetup will take place on Tuesday 28 May 2019 at Happy Ltd, 3rd Floor, 9 Alie St, London E1 8DE.
 
 We haven't planned the meetup yet. 
 
