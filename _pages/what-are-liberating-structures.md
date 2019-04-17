@@ -31,8 +31,10 @@ Each structure descibes a set of simple rules to achieve a particular outcome.
 They expand the vocabulary of structures used in typical business meetings, from 'the big 5'
 
 - presentation
+- managed discussion
+- status update
+- brainstorm
 - open discussion
-- chaired discussion
 
 The simplest structure [1-2-4-all](http://www.liberatingstructures.com/1-1-2-4-all/) is designed to _engage everyone simultaneously in generating questions, ideas, and suggestions_, here's how it works:
 
