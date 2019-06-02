@@ -2,14 +2,14 @@
 layout: single
 title: April meetup
 categories: [meetups]
-tags: [forthcoming]
+tags: [past]
 excerpt: Our April meetup will be on 30 April 2019 at Wellcome Trust
 event_date: 2019-04
 ---
 
 Our April meetup will take place on Tuesday 30 April 2019 at Wellcome Trust.
 
-We haven't planned the meetup yet. 
+We haven't planned the meetup yet.
 
 If you have ideas or suggestions of what you'd like to do, please [join us in the `#london` channel in slack](https://join.slack.com/t/liberatingstructures/shared_invite/enQtNTQ1MTQwODY1NjA1LTMxZTI2Y2U3NjU0YzcyNmRlMGFiNmUzMzhkNDAxOTU3OWM3NGQ3ODAzOTQzMGQyY2QxOWQ5MjYyZmE5ODljZTI) to discuss.
 
