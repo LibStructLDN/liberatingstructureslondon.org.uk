@@ -2,7 +2,7 @@
 layout: single
 title: June meetup
 categories: [meetups]
-tags: [forthcoming]
+tags: [past]
 excerpt: 25 June 2019 at Cloudflare
 event_date: 2019-06
 ---
