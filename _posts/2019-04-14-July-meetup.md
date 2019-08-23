@@ -2,7 +2,7 @@
 layout: single
 title: July meetup
 categories: [meetups]
-tags: [forthcoming]
+tags: [past]
 excerpt: 30 July 2019 at Potato London
 event_date: 2019-07
 ---
