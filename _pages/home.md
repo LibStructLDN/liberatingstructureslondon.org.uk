@@ -26,6 +26,14 @@ excerpt: >
 
   {% include archive-single.html type="feature" %}
 
+  {% if forloop.index == 1 %}
+    {% for post in site.pages %}
+      {% if post.name =='immersion-workshop.md' %}
+        {% include archive-single.html type="feature" %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
 {% endfor %}
 
 
