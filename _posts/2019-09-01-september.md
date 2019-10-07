@@ -1,19 +1,15 @@
 ---
 layout: single
-title: August meetup
+title: September meetup
 categories: [meetups]
 tags: [past]
-excerpt: 27 August 2019 - at GDS
-event_date: 2019-08
+excerpt: 24 Sept 2019 at GDS
+event_date: 2019-09
 ---
 
-Our August meetup will take place on Tuesday 27 August 2019 at [GDS in Aldgate East](/venues/gds).
+Our September meetup will take place on Tuesday 24 Sept 2019 at [GDS in Aldgate East](/venues/gds).
 
 **You must register for a place via eventbrite**
-
-[Register here via eventbrite](https://www.eventbrite.co.uk/e/liberating-structures-london-august-2019-social-network-webbing-tickets-70076740417).
-
-We'll be doing [Impromptu networking](http://www.liberatingstructures.com/2-impromptu-networking/) and [Social network webbing](http://www.liberatingstructures.com/23-social-network-webbing/).
 
 If you'd like to ask us questions or chat with other meetup members, [join us in the `#london` channel in slack](https://join.slack.com/t/liberatingstructures/shared_invite/enQtNTQ1MTQwODY1NjA1LTMxZTI2Y2U3NjU0YzcyNmRlMGFiNmUzMzhkNDAxOTU3OWM3NGQ3ODAzOTQzMGQyY2QxOWQ5MjYyZmE5ODljZTI) to discuss.
 
