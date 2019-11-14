@@ -12,7 +12,9 @@ We usually meet on the 4th Tuesday of the month. Registrations usually open arou
 
 Sign up to our [email list](https://bit.ly/lsldnemail) for announcements about registration and other relevant news.
 
-The meetup is led by [David Heath](https://twitter.com/dgheath21), we follow an open [meetup design process](/meetup-design-process).
+Join us in [slack](/slack) to give-and-get help from the global LS community, and other practitioners in London.
+
+The meetup is led by the community of participants, we follow an open [meetup design process](/meetup-design-process) and you're welcome to get involved.
 
 You can follow us on twitter [@LibStructLDN](https://twitter.com/LibStructLDN).
 
