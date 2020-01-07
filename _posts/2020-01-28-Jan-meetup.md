@@ -1,15 +1,15 @@
 ---
 layout: single
-title: November meetup
+title: January meetup
 categories: [meetups]
-tags: [past]
-excerpt: 26 November 2019 at Pivotal
-event_date: 2019-11
+tags: [forthcoming]
+excerpt: 28 January 2020
+event_date: 2020-01
 ---
 
-Our November meetup will take place on Tuesday 26 November 2019 at [Pivotal in Old Street](/venues/pivotal).
+Our first meetup of 2020 will take place on Tuesday 28 January 2020.
 
-**You must register for a place via [eventbrite](https://www.eventbrite.co.uk/e/liberating-structures-london-november-2019-tickets-78334678131)**
+**You must register for a place via eventbrite. Registrations are not open yet, if you'd like to be first to hear, please join our [email list](/email-list)**
 
 If you'd like to ask us questions or chat with other meetup members, [join us in the `#london` channel in slack](/slack) to discuss.
 
