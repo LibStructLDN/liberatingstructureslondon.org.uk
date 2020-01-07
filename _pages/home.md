@@ -28,5 +28,12 @@ excerpt: >
 
 {% endfor %}
 
+{% assign blogs = site.categories.blog | where: "tags", "homepage"  %}
+
+{% for post in blogs %}
+
+  {% include archive-single.html type="feature" %}
+
+{% endfor %}
 
 </div>
