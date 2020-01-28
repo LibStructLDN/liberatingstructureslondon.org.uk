@@ -3,11 +3,11 @@ title: Venues needed
 permalink: /venues-needed
 ---
 
-We need host venues who would like to host the meetup.
+We need host venues for the meetup.
 
 Are you interested in supporting this valuable community learning group, at the cutting edge of organisational change and new ways of working?
 
-We love connecting with host organisations, and moving the meetup around different hosts helps us to connect with different user groups and constituencies.
+We love connecting with host organisations and working with you and your team to plan the event. Hosting the meetup is a great way to give your staff easy access to learn about Liberating Structures.
 
 Previous venue hosts have included leading software development companies, major central government bodies, consultancies and training companies.
 
