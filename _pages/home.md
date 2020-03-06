@@ -12,13 +12,19 @@ excerpt: >
 
 <div class="feature__wrapper">
 
+{% for post in site.pages %}
+  {% if post.name =='what-are-liberating-structures.md' %}
+    {% include archive-single.html type="feature" %}
+  {% endif %}
+{% endfor %}
+
 {% assign meetups = site.categories.meetups | where: "tags", "forthcoming" | sort:"event_date"  %}
 
 {% for post in meetups %}
 
   {% if forloop.index == 1 %}
     {% for post in site.pages %}
-      {% if post.name =='what-are-liberating-structures.md' %}
+      {% if post.name =='immersion-workshop.md' %}
         {% include archive-single.html type="feature" %}
       {% endif %}
     {% endfor %}
@@ -28,12 +34,17 @@ excerpt: >
 
 {% endfor %}
 
+
+{% for post in site.pages %}
+  {% if post.name =='venues-needed.md' %}
+    {% include archive-single.html type="feature" %}
+  {% endif %}
+{% endfor %}
+
 {% assign blogs = site.categories.blog | where: "tags", "homepage"  %}
 
 {% for post in blogs %}
-
   {% include archive-single.html type="feature" %}
-
 {% endfor %}
 
 </div>

@@ -15,7 +15,7 @@ and so we'd like to make it possible for more people to get involved in that.
 We'd also love for people to be involved in running a structure on the night.
 
 The planning of each meetup normally involves two video calls in the weeks
-prior to the meetup, usually we do these on Tuesdays at 5.30-6.30pm.
+prior to the meetup, usually we do these on Mondays at 5.30-6.30pm.
 
 There are a number of ways in which you could get involved:
 

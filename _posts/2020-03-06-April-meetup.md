@@ -1,13 +1,11 @@
 ---
 layout: single
-title: January meetup
+title: April meetup
 categories: [meetups]
-tags: [past]
-excerpt: 28 January 2020
-event_date: 2020-01
+tags: [forthcoming]
+excerpt: 28 April 2020
+event_date: 2020-04
 ---
-
-Our first meetup of 2020 will take place on Tuesday 28 January 2020.
 
 **You must register for a place via eventbrite. Registrations are not open yet, if you'd like to be first to hear, please join our [email list](/email-list)**
 

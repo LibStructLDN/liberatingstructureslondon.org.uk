@@ -1,6 +1,7 @@
 ---
 title: Venues needed
 permalink: /venues-needed
+excerpt: Can you host a meetup?
 ---
 
 We need host venues for the meetup.
