@@ -2,8 +2,10 @@
 layout: single
 permalink: /immersion-workshop
 title: Liberating Structures Immersion Workshop
-excerpt: Join this two day immersive learning experience on 29-30 October
+excerpt: Join this two day immersive learning experience on 30 Apr-1 May
 ---
+
+## 30 April - 1 May
 
 We are partnering with training company Happy Ltd to offer this two day
 immersion workshop.
