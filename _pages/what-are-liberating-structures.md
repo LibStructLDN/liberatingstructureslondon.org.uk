@@ -53,7 +53,7 @@ Liberating Structures were developed and refined by Keith McCandless and Henri L
 
 Watch this brief interview with Keith and Henri to hear about the origins:
 
-{% include video id="58955014" provider="vimeo" %}
+{% include video id="364868276" provider="vimeo" %}
 
 Find out more about Liberating Structures on the [official website](http://www.liberatingstructures.com).
 
