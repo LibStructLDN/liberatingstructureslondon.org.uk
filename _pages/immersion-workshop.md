@@ -2,11 +2,10 @@
 layout: single
 permalink: /immersion-workshop
 title: Liberating Structures Immersion Workshop
-excerpt: Join this two day immersive learning experience on 30 Apr-1 May
+excerpt: Join this one day online immersive learning experience on 30 Apr
 ---
 
-We are partnering with training company Happy Ltd to offer this two day
-immersion workshop in London over two days **30 April - 1 May**.
+Previously advertised as a two-day in-person event, we're now offering this as a one-day online event on Thursday 30 Apr, in partnership with Happy Ltd.
 
 The workshop will offer you a hands on experience of the breadth and depth of
 Liberating Structures. We'll explore LS principles, hear stories of real-world
@@ -17,6 +16,4 @@ You'll leave equipped with a rich and adaptable toolkit to unleash the
 creativity and talent of everyone in your team, work group, community, and
 organisation.
 
-Use discount code **LSLONDON** for a £150 reduction.
-
-Book your place now on [Happy's website](https://www.happy.co.uk/course/happy-people/personal-development/liberating-structures/).
+Book your place now on [Happy's website](https://www.happy.co.uk/leadership-and-personal-development/live-online-interactive-learning/liberating-structures-online-immersion-workshop/).
