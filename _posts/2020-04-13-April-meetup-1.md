@@ -1,13 +1,13 @@
 ---
 layout: single
-title: March meetup
+title: 16 April meetup
 categories: [meetups]
-tags: [past]
-excerpt: 24 March 2020
-event_date: 2020-03
+tags: [forthcoming]
+excerpt: 16 April 2020
+event_date: 2020-04-16
 ---
 
-**You must register for a place via eventbrite. Registrations are not open yet, if you'd like to be first to hear, please join our [email list](/email-list)**
+**You must register for a place via [eventbrite](https://www.eventbrite.co.uk/e/liberating-structures-london-april-16th-online-meetup-tickets-101822967236)**
 
 If you'd like to ask us questions or chat with other meetup members, [join us in the `#london` channel in slack](/slack) to discuss.
 

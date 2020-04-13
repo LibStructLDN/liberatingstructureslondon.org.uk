@@ -1,13 +1,13 @@
 ---
 layout: single
-title: April meetup
+title: 28 April meetup
 categories: [meetups]
 tags: [forthcoming]
 excerpt: 28 April 2020
-event_date: 2020-04
+event_date: 2020-04-28
 ---
 
-**You must register for a place via eventbrite. Registrations are not open yet, if you'd like to be first to hear, please join our [email list](/email-list)**
+**You must register for a place via [eventbrite](https://www.eventbrite.co.uk/e/liberating-structures-london-april-28th-online-meetup-tickets-101846375250?aff=erelpanelorg)**
 
 If you'd like to ask us questions or chat with other meetup members, [join us in the `#london` channel in slack](/slack) to discuss.
 
