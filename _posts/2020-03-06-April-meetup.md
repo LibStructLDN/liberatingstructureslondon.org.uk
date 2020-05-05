@@ -2,7 +2,7 @@
 layout: single
 title: 28 April meetup
 categories: [meetups]
-tags: [forthcoming]
+tags: [past]
 excerpt: 28 April 2020
 event_date: 2020-04-28
 ---

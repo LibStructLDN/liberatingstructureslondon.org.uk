@@ -2,7 +2,7 @@
 layout: single
 title: 16 April meetup
 categories: [meetups]
-tags: [forthcoming]
+tags: [past]
 excerpt: 16 April 2020
 event_date: 2020-04-16
 ---
