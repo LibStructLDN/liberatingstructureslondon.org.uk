@@ -2,10 +2,10 @@
 layout: single
 permalink: /immersion-workshop
 title: Liberating Structures Immersion Workshop
-excerpt: Join this one day online immersive learning experience on 30 Apr
+excerpt: Join this one day online immersive learning experience on 19 June
 ---
 
-Previously advertised as a two-day in-person event, we're now offering this as a one-day online event on Thursday 30 Apr, in partnership with Happy Ltd.
+Following the success of our recent [virtual immersion workshop](https://twitter.com/search?q=%23lsonline20&src=recent_search_click), we're running another on Friday 19th June 2020.
 
 The workshop will offer you a hands on experience of the breadth and depth of
 Liberating Structures. We'll explore LS principles, hear stories of real-world
