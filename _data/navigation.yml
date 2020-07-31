@@ -7,3 +7,7 @@ main:
     url: /slack
   - title: "About"
     url: /about
+  - title: "Email list"
+    url: /email-list
+  - title: "Contact us"
+    url: /contact-us/

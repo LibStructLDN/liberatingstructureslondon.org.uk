@@ -1,0 +1,774 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"or",
+				"orig_tweet"
+			],
+			[
+				"wait",
+				"waited_too_long"
+			],
+			[
+				"recei",
+				"receive_message"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					""
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Documentation"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Clean"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Run"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Test"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Re-test"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Uberjar"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Jar"
+				],
+				[
+					"Packages/Enhanced Clojure/Leiningen.sublime-build",
+					"Lein: Check"
+				]
+			],
+			[
+				"Packages/Enhanced Clojure/Leiningen.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"quick",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lein",
+				"Build With: Leiningen - Lein: Run"
+			],
+			[
+				"run",
+				"Build With: Leiningen - Lein: Run"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"previ",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"preview",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_includes",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts"
+	],
+	"file_history":
+	[
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_includes/meta.html",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_site/immersion-workshop.html",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/lswebsite.sublime-project",
+		"/Users/heathd/Documents/twitter_thread_getter/bin/get_thread",
+		"/Users/heathd/Documents/twitter_thread_getter/spec/result_presenter_spec.rb",
+		"/Users/heathd/Documents/twitter_thread_getter/lib/result_presenter.rb",
+		"/Users/heathd/Documents/twitter_thread_getter/lib/worker.rb",
+		"/Users/heathd/Documents/twitter_thread_getter/Gemfile",
+		"/Users/heathd/Documents/twitter_thread_getter/lib/twitter_thread_getter.rb",
+		"/Users/heathd/Documents/twitter_thread_getter/lib/title_getter.rb",
+		"/Users/heathd/Documents/twitter_thread_getter/bin/get_title",
+		"/Users/heathd/Documents/twitter_thread_getter/bin/get_many_titles.rb",
+		"/Users/heathd/Documents/twitter_thread_getter/urls",
+		"/Users/heathd/Documents/ls/slack_to_html/spec/fixtures/messages/message_1.json",
+		"/Users/heathd/Documents/ls/slack_to_html/.rspec",
+		"/Users/heathd/Documents/ls/slack_to_html/lib/message.rb",
+		"/Users/heathd/Documents/ls/slack_to_html/lib/channel.rb",
+		"/Users/heathd/Documents/ls/slack_to_html/spec/fixtures/channel_1/2020-03-07.json",
+		"/Users/heathd/Documents/ls/slack_to_html/spec/fixtures/channel_1/2020-03-06.json",
+		"/Users/heathd/Documents/ls/slack_to_html/lib/index_maker.rb",
+		"/Users/heathd/Documents/ls/slack_to_html/spec/channel_spec.rb",
+		"/Users/heathd/Documents/ls/slack_to_html/spec/message_spec.rb",
+		"/Users/heathd/Documents/ls/slack_to_html/convert.rb",
+		"/Users/heathd/Documents/ls/slack_to_html/lib/channel_renderer.rb",
+		"/Users/heathd/Documents/ls/slack_to_html/templates/channel.html.erb",
+		"/Users/heathd/Documents/liberatingstructures.slack.com/general/2019-04-12.json",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2020-05-04-May-meetup-1.md",
+		"/Users/heathd/Documents/reunhangout/reunhangout/frontend/templates/frontend/permalinks_gone.html",
+		"/Users/heathd/Documents/reunhangout/reunhangout/reunhangout/default_settings.py",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2020-04-13-April-meetup-1.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2020-03-06-April-meetup.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_pages/immersion-workshop.md",
+		"/Users/heathd/Desktop/happy-logo.8869ea02.svg",
+		"/chat",
+		"/Users/heathd/Documents/chat",
+		"/Users/heathd/Documents/Zoom/2020-04-16 19.02.05 LS April Meeting #1 96616776383/meeting_saved_chat.txt",
+		"/Users/heathd/Documents/zoom_cleanup/,",
+		"/Users/heathd/Documents/personal/private/letter-to-sargam.md",
+		"/Users/heathd/Downloads/Eloise.zip",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_config.yml",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/run_local.sh",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_site/index.html",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/vendor/bundle/ruby/2.6.0/gems/jekyll-3.8.5/lib/site_template/index.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_pages/home.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_pages/venues-needed.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_pages/meetup-design-process.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2020-01-28-Jan-meetup.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2020-03-06-March-meetup.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2019-03-12-April-meetup.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_config_localdev.yaml",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/Gemfile.lock",
+		"/Users/heathd/Documents/personal/cycle-trip/cycle trip/davidheath.org/cycle-tour/index.html",
+		"/Users/heathd/.zprofile",
+		"/Users/heathd/Desktop/strap.sh",
+		"/Users/heathd/.zshrc",
+		"/Users/heathd/.bash_profile",
+		"/Users/heathd/.bundler-exec.sh",
+		"/Users/heathd/automation/golang.mk",
+		"/Users/heathd/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/jekyll-github-metadata-2.12.1/lib/jekyll-github-metadata/repository.rb",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/Gemfile",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2020-01-07-year-in-review-2019.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2019-10-07-october.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_pages/email-list.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2019-10-07-november-meetup.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2019-01-28-Jan-meetup.md",
+		"/Users/heathd/out.txt",
+		"/Users/heathd/out.xml",
+		"/Users/heathd/out.html",
+		"/Users/heathd/Dropbox/2019-11-apistandards/pp-services.csv",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_pages/venues/pivotal.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_pages/venues/potato.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_pages/venues/gds.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_pages/slack.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2019-07-30-august.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2019-09-01-september.md",
+		"/Users/heathd/Downloads/basic.ics",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/15_processes.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/01_equalities.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/02_strings.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/03_numbers.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/04_atoms.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/05_tuples.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/06_lists.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/07_keyword_lists.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/08_maps.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/09_map_sets.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/10_structs.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/11_sigils.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/12_pattern_matching.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/13_functions.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/14_enums.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/display/progress_bar.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/16_tasks.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/17_agents.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/18_genservers.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/19_protocols.ex",
+		"/Users/heathd/Documents/elixir-koans/lib/koans/20_comprehensions.ex",
+		"/Users/heathd/Documents/publicapi-logs.txt",
+		"/Users/heathd/Documents/test.csv",
+		"/Users/heathd/Documents/coding/clojure/blottsbooks/src/blottsbooks/core.clj",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2019-04-14-July-meetup.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2019-07-30.md",
+		"/Users/heathd/Documents/coding/sqs/kinesis.rb",
+		"/Users/heathd/gds/pay-architecture/reporting/event_model.md",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2019-05-06-immersion-workshop-reflections.md",
+		"/Users/heathd/Desktop/LS principles.md",
+		"/Users/heathd/gds/venues/www.towerhamlets.gov.uk/lgnl/community_and_living/halls_for_hire/find.rb",
+		"/Users/heathd/gds/venues/www.towerhamlets.gov.uk/lgnl/community_and_living/halls_for_hire/postcodes",
+		"/Users/heathd/Dropbox/Agile in the city/Gojko Adzic - descaling agile.md",
+		"/Users/heathd/Dropbox/Agile in the city/## Gojko Adzic - descaling agile",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_posts/2019-03-26-Improv-prototyping-writeup.md",
+		"/Users/heathd/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/minimal-mistakes-jekyll-4.15.2/_layouts/splash.html",
+		"/Users/heathd/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/minimal-mistakes-jekyll-4.15.2/_includes/sidebar.html",
+		"/Users/heathd/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/minimal-mistakes-jekyll-4.15.2/_layouts/single.html",
+		"/Users/heathd/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/minimal-mistakes-jekyll-4.15.2/_includes/figure",
+		"/Users/heathd/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/minimal-mistakes-jekyll-4.15.2/_includes/feature_row",
+		"/Users/heathd/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/minimal-mistakes-jekyll-4.15.2/_layouts/home.html",
+		"/Users/heathd/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/minimal-mistakes-jekyll-4.15.2/_layouts/tags.html",
+		"/Users/heathd/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/minimal-mistakes-jekyll-4.15.2/_layouts/tag.html",
+		"/Users/heathd/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/minimal-mistakes-jekyll-4.15.2/_includes/posts-tag.html",
+		"/Users/heathd/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/minimal-mistakes-jekyll-4.15.2/_includes/archive-single.html",
+		"/Users/heathd/Documents/liberating_structures/liberatingstructureslondon.org.uk/_site/assets/css/main.css",
+		"/Users/heathd/Library/Mail/V6/0D4025B4-E715-4124-A12B-32488456175F/[Gmail].mbox/All Mail.mbox/67074353-7D84-4FD8-8454-7DB1E60D26E8/Data/5/2/3/Attachments/325780/2/btpontour_org.sql",
+		"/Users/heathd/gds/pay-demo-service-master/package-lock.json",
+		"/Users/heathd/gds/pay-demo-service-master/test/test_helpers/mock_cookie.js",
+		"/Users/heathd/gds/pay-demo-service-master/server.js",
+		"/Users/heathd/Documents/personal/nokia/Nokia-File-NFB-0.01/README",
+		"/Users/heathd/id_rsa.pub.ruby"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 338.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "Packages/Enhanced Clojure/Leiningen.sublime-build",
+	"project": "lswebsite.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lsweb",
+				"liberatingstructureslondon.org.uk/lswebsite.sublime-project"
+			],
+			[
+				"imm",
+				"_site/immersion-workshop.html"
+			],
+			[
+				"docker",
+				"Dockerfile"
+			],
+			[
+				"",
+				"bin/get_many_titles.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"get",
+				"bin/get_thread"
+			],
+			[
+				"tw",
+				"lib/twitter_thread_getter.rb"
+			],
+			[
+				"me",
+				"lib/message.rb"
+			],
+			[
+				"mess",
+				"spec/fixtures/messages/message_1.json"
+			],
+			[
+				"m",
+				"lib/message.rb"
+			],
+			[
+				"cha",
+				"lib/channel.rb"
+			],
+			[
+				"c",
+				"lib/channel.rb"
+			],
+			[
+				"ch",
+				"spec/channel_spec.rb"
+			],
+			[
+				"maymee",
+				"_posts/2020-05-04-May-meetup-1.md"
+			],
+			[
+				"immer",
+				"_pages/immersion-workshop.md"
+			],
+			[
+				"2020apr",
+				"_posts/2020-03-06-April-meetup.md"
+			],
+			[
+				"clean",
+				"cleanup.rb"
+			],
+			[
+				"_con",
+				"_config.yml"
+			],
+			[
+				"meetup",
+				"_pages/meetup-design-process.md"
+			],
+			[
+				"venu",
+				"_pages/venues-needed.md"
+			],
+			[
+				"2020ap",
+				"_posts/2020-03-06-April-meetup.md"
+			],
+			[
+				"aprmee",
+				"_posts/2019-03-12-April-meetup.md"
+			],
+			[
+				"marc",
+				"_posts/2020-03-06-March-meetup.md"
+			],
+			[
+				"jan",
+				"_posts/2020-01-28-Jan-meetup.md"
+			],
+			[
+				"home",
+				"_pages/home.md"
+			],
+			[
+				"indexmd",
+				"vendor/bundle/ruby/2.6.0/gems/jekyll-3.8.5/lib/site_template/index.md"
+			],
+			[
+				"index",
+				"_site/index.html"
+			],
+			[
+				"immersion",
+				"_pages/immersion-workshop.md"
+			],
+			[
+				"conflo",
+				"_config_localdev.yaml"
+			],
+			[
+				"gemloc",
+				"Gemfile.lock"
+			],
+			[
+				"run",
+				"run_local.sh"
+			],
+			[
+				"spec/fix",
+				"spec/fixtures/rota.csv"
+			],
+			[
+				"conf",
+				"_config_localdev.yaml"
+			],
+			[
+				"year in",
+				"_posts/2020-01-07-year-in-review-2019.md"
+			],
+			[
+				"year ",
+				"_posts/2020-01-07-year-in-review-2019.md"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"geml",
+				"Gemfile.lock"
+			],
+			[
+				"hom",
+				"_pages/home.md"
+			],
+			[
+				"email",
+				"_pages/email-list.md"
+			],
+			[
+				"oct",
+				"_posts/2019-10-07-october.md"
+			],
+			[
+				"nov",
+				"_posts/2019-10-07-november-meetup.md"
+			],
+			[
+				"pot",
+				"_pages/venues/potato.md"
+			],
+			[
+				"po",
+				"_pages/venues/potato.md"
+			],
+			[
+				"venues",
+				"_pages/venues/gds.md"
+			],
+			[
+				"20",
+				"lib/koans/20_comprehensions.ex"
+			],
+			[
+				"protocol",
+				"lib/koans/19_protocols.ex"
+			],
+			[
+				"gen",
+				"lib/koans/18_genservers.ex"
+			],
+			[
+				"17",
+				"lib/koans/17_agents.ex"
+			],
+			[
+				"16",
+				"lib/koans/16_tasks.ex"
+			],
+			[
+				"15",
+				"lib/koans/15_processes.ex"
+			],
+			[
+				"pro",
+				"lib/display/progress_bar.ex"
+			],
+			[
+				"14",
+				"lib/koans/14_enums.ex"
+			],
+			[
+				"func",
+				"lib/koans/13_functions.ex"
+			],
+			[
+				"patter",
+				"lib/koans/12_pattern_matching.ex"
+			],
+			[
+				"sigi",
+				"lib/koans/11_sigils.ex"
+			],
+			[
+				"struc",
+				"lib/koans/10_structs.ex"
+			],
+			[
+				"09",
+				"lib/koans/09_map_sets.ex"
+			],
+			[
+				"maps",
+				"lib/koans/08_maps.ex"
+			],
+			[
+				"keyw",
+				"lib/koans/07_keyword_lists.ex"
+			],
+			[
+				"lists",
+				"lib/koans/06_lists.ex"
+			],
+			[
+				"tuples",
+				"lib/koans/05_tuples.ex"
+			],
+			[
+				"atoms",
+				"lib/koans/04_atoms.ex"
+			],
+			[
+				"numbers",
+				"lib/koans/03_numbers.ex"
+			],
+			[
+				"stirng",
+				"lib/koans/02_strings.ex"
+			],
+			[
+				"01",
+				"lib/koans/01_equalities.ex"
+			],
+			[
+				"count",
+				"count_senders.rb"
+			],
+			[
+				"core",
+				"src/blottsbooks/core.clj"
+			],
+			[
+				"july",
+				"_posts/2019-04-14-July-meetup.md"
+			],
+			[
+				"event",
+				"reporting/event_model.md"
+			],
+			[
+				"sqs",
+				"sqs.rb"
+			],
+			[
+				"find",
+				"find.rb"
+			],
+			[
+				"post",
+				"postcodes"
+			],
+			[
+				"feature",
+				"_includes/feature_row"
+			],
+			[
+				"archi",
+				"_includes/archive-single.html"
+			],
+			[
+				"arc",
+				"_includes/archive-single.html"
+			],
+			[
+				"posts-tag.html",
+				"_includes/posts-tag.html"
+			],
+			[
+				"tag",
+				"_layouts/tag.html"
+			],
+			[
+				"tags",
+				"_layouts/tags.html"
+			],
+			[
+				"spla",
+				"_layouts/splash.html"
+			],
+			[
+				"sidebar",
+				"_includes/sidebar.html"
+			],
+			[
+				"single",
+				"_layouts/single.html"
+			],
+			[
+				"f",
+				"_includes/figure"
+			],
+			[
+				"figure",
+				"_includes/figure"
+			],
+			[
+				"main",
+				"assets/css/main.scss"
+			],
+			[
+				"404",
+				"404.md"
+			],
+			[
+				"con",
+				"_config.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

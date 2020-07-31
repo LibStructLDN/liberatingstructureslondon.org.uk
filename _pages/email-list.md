@@ -1,13 +1,12 @@
 ---
-layout: single
-permalink: email-list
 title: Email list
-
+permalink: /email-list/
 ---
 
-We have a low-traffic email announcement list (1-2 posts per month). 
+Sign up to our [email list](https://bit.ly/lsldnemail) for announcements about registration and other relevant news.
 
-[Sign up](http://bit.ly/lsldnemail) to:
+Join us in [slack](/slack) to give-and-get help from the global LS community, and other practitioners in London.
 
-- hear when registration is open for meetups
-- hear other news and information about Liberating Structures in London
+You can follow us on twitter [@LibStructLDN](https://twitter.com/LibStructLDN).
+
+[Contact us](/contact-us).
