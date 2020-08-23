@@ -19,8 +19,6 @@ You can see a past meeting plans and slide decks in our [google drive folder](ht
 
 **Our next meet up will be on 25th August.**
 
-**Places are limited, you must register for a place via eventbrite.**
-
-Registrations are not open yet, to get a notification when registrations are available you can join our [email list](https://twitter.us17.list-manage.com/subscribe?u=c1e5df625d0dc310835181d28&id=072d014a9f)
+**Places are limited, you must [register for a place via eventbrite](https://www.eventbrite.co.uk/e/liberating-structures-uk-virtual-meetup-tickets-117737202141).**
 
 If you'd like to ask us questions or chat with other meetup members, [join us in the `#london` channel in slack](/slack) to discuss.
