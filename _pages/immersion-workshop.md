@@ -2,10 +2,10 @@
 layout: single
 permalink: /immersion-workshop
 title: Liberating Structures Immersion Workshop
-excerpt: Join this one day online immersive learning experience on 21 August
+excerpt: Join this one day online immersive learning experience on 23 October
 ---
 
-Following the success of our recent [virtual immersion workshop](https://twitter.com/search?q=%23lsonline20&src=recent_search_click), we're running another on Friday 21st August 2020.
+Following the success of our recent [virtual immersion workshop](https://twitter.com/search?q=%23lsonline20&src=recent_search_click), we're running another on Friday 23st October 2020.
 
 The workshop will offer you a hands on experience of the breadth and depth of
 Liberating Structures. We'll explore LS principles, hear stories of real-world

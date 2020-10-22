@@ -1,10 +1,10 @@
 ---
 layout: single
-title: August meetup
+title: November meetup
 categories: [meetups]
-tags: [past]
-excerpt: Virtual meetup on 25 August
-event_date: 2020-08-25
+tags: [forthcoming]
+excerpt: Virtual meetup on 24 November
+event_date: 2020-11-24
 ---
 
 Want to join our next virtual meetup?
@@ -17,8 +17,8 @@ Each month we invite two community members, with support from the core organisin
 
 You can see a past meeting plans and slide decks in our [google drive folder](https://drive.google.com/drive/u/0/folders/17_KHIdZ4-AV-q95-osB7qXJNs3cvYCM-).
 
-**Our next meet up will be on 25th August.**
+**Our next meet up will be on 24 November.**
 
-**Places are limited, you must [register for a place via eventbrite](https://www.eventbrite.co.uk/e/liberating-structures-uk-virtual-meetup-tickets-117737202141).**
+**Places are limited, you must register via eventbrite to attend (registrations open 2 weeks before the event, join our [email list](/email-list/) for announcements.**
 
 If you'd like to ask us questions or chat with other meetup members, [join us in the `#london` channel in slack](/slack) to discuss.
