@@ -9,7 +9,7 @@ You can use slack in your web browser or install an app on your computer or mobi
 
 There are a number of channels for specific purposes such as `#virtual` and `#wisecrowds` and `#london`.
 
-[Join slack](https://join.slack.com/t/liberatingstructures/shared_invite/zt-f0152w3l-kEs9rto7Am29tKozmY6NlQ) - if this link stops working please [contact us](/about/#contact-us)
+[Join slack](https://join.slack.com/t/liberatingstructures/shared_invite/zt-ifsqwpkj-aXutEZ49Vf4aR4uoMKZhqQ) - if this link stops working please [contact us](/about/#contact-us)
 
 ![Slack](/assets/images/slack_screenshot.png)
 
