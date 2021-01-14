@@ -19,6 +19,6 @@ You can see a past meeting plans and slide decks in our [google drive folder](ht
 
 **Our next meet up will be on 26 January.**
 
-**Places are limited, you must register via eventbrite to attend (registrations open 2 weeks before the event, join our [email list](/email-list/) for announcements.**
+[Sign up here](https://www.eventbrite.co.uk/e/liberating-structures-uk-virtual-meetup-tickets-136800426759)
 
 If you'd like to ask us questions or chat with other meetup members, [join us in the `#london` channel in slack](/slack) to discuss.
