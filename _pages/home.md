@@ -35,12 +35,6 @@ excerpt: >
 {% endfor %}
 
 
-{% for post in site.pages %}
-  {% if post.name =='venues-needed.md' %}
-    {% include archive-single.html type="feature" %}
-  {% endif %}
-{% endfor %}
-
 {% assign blogs = site.categories.blog | where: "tags", "homepage"  %}
 
 {% for post in blogs %}
