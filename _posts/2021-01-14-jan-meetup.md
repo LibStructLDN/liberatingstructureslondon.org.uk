@@ -1,6 +1,6 @@
 ---
 layout: single
-title: November meetup
+title: January meetup
 categories: [meetups]
 tags: [forthcoming]
 excerpt: Virtual meetup on 26 January
