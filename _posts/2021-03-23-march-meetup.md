@@ -2,9 +2,9 @@
 layout: single
 title: January meetup
 categories: [meetups]
-tags: [past]
+tags: [forthcoming]
 excerpt: Virtual meetup on 26 January
-event_date: 2021-01-26
+event_date: 2021-03-23
 ---
 
 Want to join our next virtual meetup?
@@ -17,8 +17,8 @@ Each month we invite two community members, with support from the core organisin
 
 You can see a past meeting plans and slide decks in our [google drive folder](https://drive.google.com/drive/u/0/folders/17_KHIdZ4-AV-q95-osB7qXJNs3cvYCM-).
 
-**Our next meet up will be on 26 January.**
+**Our next meet up will be on 23 March.**
 
-[Sign up here](https://www.eventbrite.co.uk/e/liberating-structures-uk-virtual-meetup-tickets-136800426759)
+[Sign up here](https://www.eventbrite.co.uk/e/liberating-structures-uk-virtual-meetup-tickets-145475187201)
 
 If you'd like to ask us questions or chat with other meetup members, [join us in the `#london` channel in slack](/slack) to discuss.
