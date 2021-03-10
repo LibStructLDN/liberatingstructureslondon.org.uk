@@ -1,9 +1,9 @@
 ---
 layout: single
-title: January meetup
+title: March meetup
 categories: [meetups]
 tags: [forthcoming]
-excerpt: Virtual meetup on 26 January
+excerpt: Virtual meetup on 23 March
 event_date: 2021-03-23
 ---
 
