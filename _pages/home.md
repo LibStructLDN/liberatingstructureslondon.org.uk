@@ -22,14 +22,6 @@ excerpt: >
 
 {% for post in meetups %}
 
-  {% if forloop.index == 1 %}
-    {% for post in site.pages %}
-      {% if post.name =='immersion-workshop.md' %}
-        {% include archive-single.html type="feature" %}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-
   {% include archive-single.html type="feature" %}
 
 {% endfor %}
