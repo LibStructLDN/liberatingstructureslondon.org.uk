@@ -23,7 +23,7 @@ description              : "User group for Liberating Structures in London"
 url                      : https://www.liberatingstructureslondon.org.uk/
 baseurl                  : /
 repository               : LibStructLDN/liberatingstructureslondon.org.uk
-source                   : docs
+source                   : docs/
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
