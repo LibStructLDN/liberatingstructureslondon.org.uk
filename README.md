@@ -20,3 +20,5 @@ $ cd liberatingstructureslondon.org.uk
 $ bundle install
 $ bundle exec jekyll serve
 ```
+
+.
