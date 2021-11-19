@@ -185,6 +185,8 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - Gemfile
+  - Gemfile.lock
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
