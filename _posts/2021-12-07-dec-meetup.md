@@ -2,7 +2,7 @@
 layout: single
 title: December meetup
 categories: [meetups]
-tags: [forthcoming]
+tags: [past]
 excerpt: Virtual meetup on 7 December
 event_date: 2021-12-07
 ---
