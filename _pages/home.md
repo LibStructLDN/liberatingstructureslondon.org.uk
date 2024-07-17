@@ -27,7 +27,6 @@ excerpt: >
 {% endfor %}
 
 
-
 {% assign blogs = site.categories.blog | where: "tags", "homepage"  %}
 
 {% for post in blogs %}
